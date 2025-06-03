@@ -1,12 +1,14 @@
-# React + Vite
+# Liste de Produits
+Ce projet est un "travail pratique" proposé par la formation de Graphikart https://grafikart.fr/tutoriels/tp-react-liste-produit-1320#autoplay. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Le but est de créer une fonction de recherche réactive sur une liste de produits (en fonction d'une barre de recherche, et d'une checkbox). 
 
-Currently, two official plugins are available:
+Dans son TP, Graphikart utilise Bootstrap, dans mon cas j'ai utilisé TailWind pour m'y initier en même temps. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Lancer et tester l'application
+```
+npm install
+npm run dev
+```
+Et suivez les instructions !
