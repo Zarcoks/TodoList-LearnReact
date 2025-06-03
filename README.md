@@ -1,5 +1,5 @@
 # Liste de Produits
-Ce projet est un "travail pratique" proposé par la formation de Graphikart https://grafikart.fr/tutoriels/tp-react-liste-produit-1320#autoplay. 
+Ce projet est un "travail pratique" proposé par la formation de Graphikart https://grafikart.fr/tutoriels/tp-react-liste-produit-1320#autoplay dont le but est d'apprendre à utiliser React (avec Vite). 
 
 Le but est de créer une fonction de recherche réactive sur une liste de produits (en fonction d'une barre de recherche, et d'une checkbox). 
 
